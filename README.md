@@ -1,2 +1,2 @@
 # Artificial-NN-work
-Homeworks of Artificial Neural Network course
+Homework of Artificial Neural Network course
